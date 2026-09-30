@@ -1,4 +1,4 @@
-# blog-web-application
+# Blog Web Application
 
 A simple web application built with Node.js, Express.js, EJS and Css.
 
